@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/localhome/pallavjb/SMSG'
+let g:netrw_dirhist_2='/localhome/pallavjb/Projects/temp_comp/wz_uvm_hlp_driver'
+let g:netrw_dirhist_3='/localhome/pallavjb/my_note'
+let g:netrw_dirhist_4='/localhome/pallavjb/Projects/PCIE_PHY/vyuh_ip'
+let g:netrw_dirhist_5='/localhome/pallavjb/Projects/AXI'
+let g:netrw_dirhist_6='/localhome/pallavjb/Projects/Proj_ref/MPHY/ndocs'
+let g:netrw_dirhist_7='/localhome/pallavjb/Projects/Proj_ref/CSI2/ndocs'
+let g:netrw_dirhist_8='/localhome/pallavjb/my_note'
